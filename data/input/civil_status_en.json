@@ -1,0 +1,20 @@
+{
+    "Single": [
+        "Single"
+    ],
+    "Married": [
+        "Married"
+    ],
+    "Divorced": [
+        "Divorced"
+    ],
+    "Widowed": [
+        "Widowed"
+    ],
+    "In a registered partnership": [
+        "In a registered partnership"
+    ],
+    "Registered partnership dissolved": [
+        "Registered partnership dissolved"
+    ]
+}

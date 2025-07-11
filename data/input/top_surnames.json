@@ -1,0 +1,74 @@
+{
+    "Swiss": [
+        "Müller",
+        "Meier",
+        "Schmid",
+        "Keller",
+        "Weber",
+        "Schneider",
+        "Huber",
+        "Meyer",
+        "Steiner",
+        "Fischer"
+    ],
+    "Turkish": [
+        "Yılmaz",
+        "Kaya",
+        "Demir",
+        "Çelik",
+        "Şahin",
+        "Yıldız",
+        "Yıldırım",
+        "Öztürk",
+        "Aydın",
+        "Özdemir"
+    ],
+    "Portugese": [
+        "Silva",
+        "Santos",
+        "Ferreira",
+        "Pereira",
+        "Costa",
+        "Oliveira",
+        "Martins",
+        "Rodrigues",
+        "Sousa",
+        "Fernandes"
+    ],
+    "Spanish": [
+        "Garcia",
+        "Rodriguez",
+        "Gonzalez",
+        "Fernandez",
+        "Lopez",
+        "Martinez",
+        "Sanchez",
+        "Perez",
+        "Gomez",
+        "Martin"
+    ],
+    "Serbian": [
+        "Jovanović",
+        "Nikolić",
+        "Petrović",
+        "Đorđević",
+        "Ilić",
+        "Pavlović",
+        "Marković",
+        "Stojanović",
+        "Popović",
+        "Živković"
+    ],
+    "Kosovan": [
+        "Krasniqi",
+        "Gashi",
+        "Berisha",
+        "Morina",
+        "Shala",
+        "Bytyqi",
+        "Kastrati",
+        "Hasani",
+        "Bajrami",
+        "Hoti"
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "Single": [
+        "Ledig"
+    ],
+    "Married": [
+        "Verheiratet"
+    ],
+    "Divorced": [
+        "Geschieden"
+    ],
+    "Widowed": [
+        "Verwitwet"
+    ],
+    "In a registered partnership": [
+        "Eingetragene Partnerschaft"
+    ],
+    "Registered partnership dissolved": [
+        "Gerichtlich aufgelöste Partnerschaft"
+    ]
+}
